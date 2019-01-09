@@ -9,3 +9,4 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: https://registration-pal-james-rupali.apps.evans.pal.pivotal.io
   services:
   - tracker-registration-database
+
