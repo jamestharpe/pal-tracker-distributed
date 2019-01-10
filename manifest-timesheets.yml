@@ -6,6 +6,6 @@ applications:
   memory: 1G
   instances: 1
   env:
-    REGISTRATION_SERVER_ENDPOINT: https://timesheets-pal-james-rupali.apps.evans.pal.pivotal.io
+    REGISTRATION_SERVER_ENDPOINT: https://registration-pal-james-rupali.apps.evans.pal.pivotal.io
   services:
   - tracker-timesheets-database
